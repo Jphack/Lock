@@ -1,0 +1,169 @@
+.row{
+	background-color: white;
+}
+/*INICIO CABECERA LOGO TIMOTI*/
+.cabecera_logo_timoti img{
+	margin-top: -27px; 
+	width: 100%;
+	height: 52px;
+}
+
+.cabecera_logo_admin img{
+	margin-top: -34px;
+	width: 100%;
+	height: 50px;
+}
+
+/*TITULO DE LA PAGINA*/
+.titulo_pagina h1{
+	font-size: 35px;
+	font-weight: 700;
+}
+/*CENTRAR EL TEXTO*/
+.centrar_texto p{
+	text-align: center;
+}
+
+.centrar_texto h4{
+	text-align: center;
+}
+
+.centrar_texto h2{
+	text-align: center;
+}
+/*INICIO DEL CONTENIDO EDITABLE DE LA PAGINA (PARTE BLANCA A USAR)*/
+.contenido_color{
+	background-color: white;
+	height: auto;
+}
+
+/*ADMIN PERFIL CSS*/
+.margin_top{
+	margin-top: 15px;
+}
+
+/*ADMIN CAMBIO CSS*/
+.margin_top-2{
+	margin-top: 6px;
+}
+
+.ancho1{
+	width: 87px;
+}
+
+.ancho2{
+	max-width: 113px;
+}
+
+.ancho3{
+	max-width: 40%;
+}
+
+.margin-top-3{
+	margin-top: 13px;
+}
+
+.tabla{
+	border: 1px solid #ddd;
+}
+
+.margin-left{
+	margin-left: 10px;
+}
+
+.label-font-size{
+	font-size: 24px;
+}
+
+/*ADMIN CAMBIO CONSULTAR*/
+.margin-top-4{
+	margin-top: 13px;
+}
+
+/*CLIENTE ESTADO*/
+.margin-top-5{
+	margin-top:25px;
+}
+
+select{
+	margin-bottom: 10px !important;
+	background: #fcfcfc !important;
+	border: 1px solid #ccc !important;
+	max-width: 100% !important;
+	border-radius: 0px !important;
+	text-align: center !important;
+}
+
+.border-radius{
+	border-radius: 2px;
+}
+
+/*COMPRAS*/
+.ancho5{
+	max-width: 65%;
+}
+
+.ancho6{
+	max-width: 33%;
+}
+
+.ancho7{
+	max-width: 39%;
+}
+
+.ancho8{
+	max-width: 58%;
+}
+
+.ancho9{
+	max-width: 40%;
+}
+
+.margin-left-2{
+	margin-left: 40px;
+}
+
+/*DESCRIPCION COMPRA*/
+.margin-top-6{
+	margin-top: 20px;
+}
+
+/*INICIO*/
+.margin-top-circulos i{
+	margin-top: -8px;
+}
+
+/*PEDIDO_DESCRIPCION*/
+.imagen{
+	width: 80px;
+	height: 51px;
+}
+
+/*PRODUCTO*/
+.ancho10{
+	max-width: 49%;
+}
+
+.margin-bottom{
+	margin-bottom: 15px;
+}
+
+.label-producto{
+	display: inline-block;
+	margin-bottom: 5px;
+	font-weight: 700;
+}
+
+/*PROVEEDOR*/
+.ancho11{
+	width: 100%;
+}
+
+.margin-left-3{
+	margin-left: 15px;
+}
+
+/*DESCARTE*/
+.heigth{
+	min-height: 60px;
+}
